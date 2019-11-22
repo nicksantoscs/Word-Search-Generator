@@ -28,6 +28,7 @@ public class WordPuzzle {
         return rowNum;
     }
 
+    //JW edit to remove
     //Gets number of columns
     public int getColumns() {
         Scanner columns = new Scanner(System.in);
